@@ -1,3 +1,6 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/EventGhost-Test-Organization/plugins
+[submodule "_build"]
+	path = _build
+	url = https://github.com/EventGhost-Test-Organization/build
